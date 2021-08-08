@@ -1,0 +1,12 @@
+div.img-container {
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Fpokemon-logo-png-pokemon-logo-png-2000.png&f=1&nofb=1');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+ul#pokemons {
+    width: 130px;
+    max-height: 100vh;
+    overflow: auto;
+}
